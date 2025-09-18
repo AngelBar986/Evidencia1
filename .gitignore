@@ -1,0 +1,12 @@
+/nbproject/private/
+/build/
+/dist/
+/build-impl.xml
+**/*.class
+*.log
+*.war
+*.ear
+/.idea/
+/*.iml
+.DS_Store
+Thumbs.db
